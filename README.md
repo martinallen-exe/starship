@@ -2,4 +2,7 @@
 My Starship config and scripts
 
 # BASH Installation
-`bash -c "$(curl -fsSL https://raw.githubusercontent.com/yourusername/yourrepository/main/install_starship.sh)"`
+`bash -c "$(curl -fsSL https://raw.githubusercontent.com/martinallen-exe/starship/main/installation/install_starship.sh)"`
+
+# Powershell Installation
+`iex (irm 'https://raw.githubusercontent.com/martinallen-exe/starship/main/installation/install_starship.ps1')`
