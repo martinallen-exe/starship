@@ -5,4 +5,4 @@ My Starship config and scripts
 `bash -c "$(curl -fsSL https://raw.githubusercontent.com/martinallen-exe/starship/main/installation/install_starship.sh)"`
 
 # Powershell Installation
-`iex (irm 'https://raw.githubusercontent.com/martinallen-exe/starship/main/installation/install_starship.ps1')`
+`iex (irm 'https://raw.githubusercontent.com/martinallen-exe/starship/main/installation/powershell-install.ps1')`
